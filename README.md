@@ -1,7 +1,7 @@
 # VRSoccer
 (C) 2016 Dick Verweij dickydick1969@hotmail.com
 
-[[https://github.com/AFASResearch/VRSoccer/master/vrsoccer.png|alt=vrsoccer]]
+[[https://github.com/AFASResearch/VRSoccer/blob/master/vrsoccer.png|alt=vrsoccer]]
 
 AFAS Virtual Reality foosball
 
@@ -25,3 +25,5 @@ Install > 4.13 Unreal Engine
 Clone this repository and build the UE project.
 
 Currently under development. 
+
+The APK can be downloaded here:  [VRSOCCER-armv7-es2](Build/Android_ETC2/VRSOCCER-armv7-es2.apk)
