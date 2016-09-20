@@ -24,7 +24,4 @@ Install > 4.13 Unreal Engine
 
 Clone this repository and build the UE project.
 
-
-To play on android you can also download the apk.
-
-The APK can be found in Builds/Android_ETC2. Install it on your phone using the bat file.
+Currently under development. 
