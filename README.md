@@ -1,5 +1,7 @@
 # VRSoccer
-(C) Dick Verweij dickydick1969@hotmail.com
+(C) 2016 Dick Verweij dickydick1969@hotmail.com
+
+[[https://github.com/AFASResearch/VRSoccer/master/vrsoccer.png|alt=vrsoccer]]
 
 AFAS Virtual Reality foosball
 
@@ -25,4 +27,4 @@ Clone this repository and build the UE project.
 
 To play on android you can also download the apk.
 
- 
+The APK can be found in Builds/Android_ETC2. Install it on your phone using the bat file.
