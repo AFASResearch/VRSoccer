@@ -1,7 +1,7 @@
 # VRSoccer
 (C) 2016 Dick Verweij dickydick1969@hotmail.com
 
-[AFAS VRSoccer](https://github.com/AFASResearch/VRSoccer/blob/master/vrsoccer.png)
+![AFAS VRSoccer](https://github.com/AFASResearch/VRSoccer/blob/master/vrsoccer.png)
 
 AFAS Virtual Reality foosball
 
