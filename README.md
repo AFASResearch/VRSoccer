@@ -28,4 +28,5 @@ Currently under development.
 TODO: Network play
 
 The APK can be downloaded here:  [VRSOCCER-armv7-es2](Build/Android_ETC2/VRSOCCER-armv7-es2.apk)
+
 For the IOS version you need to send me your email. Send it to d.verweij@afas.nl.
