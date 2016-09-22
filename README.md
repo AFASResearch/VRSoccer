@@ -11,15 +11,17 @@ Play VR foosball with Google cardboard! A sample VR project to get started with 
 
 This is intended as a sample project, it is not ready for any production usage :)
 We have many TODO's left, which might be implemented someday, or not.
-You are welcome to fork and built your own version. You might even send us pull requests.
+You are welcome to fork and built your own version. Send us pull requests!
 
-The APK can be downloaded here:  [VRSOCCER-armv7-es2](Build/Android_ETC2/VRSOCCER-armv7-es2.apk)
+Currently Android is working. The APK can be downloaded here:  [VRSOCCER-armv7-es2](Build/Android_ETC2/VRSOCCER-armv7-es2.apk).
+The iOS version is currently not working, but you can send an email to d.verweij@afas.nl to get updates as we are awaiting a bug fix in the engine.
 
-The iOS version is currently not working, but you can send an email to d.verweij@afas.nl to get updates.
+You would have assumed that we enabled HTML5, but we didn't. Maybe in the future :)
 
 # Instructions for development
 
 * Install Unreal Engine 4.13. The easiest way is through the [Epic Games software](http://www.epicgames.com).
+* Also make sure that you have the [Android SDK](http://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html).
 * Clone this repository.
 * Open the project (VRSOCCER.uproject) in the Unreal Editor.
 
