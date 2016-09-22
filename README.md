@@ -15,14 +15,15 @@ You are welcome to fork and built your own version. You might even send us pull 
 
 The APK can be downloaded here:  [VRSOCCER-armv7-es2](Build/Android_ETC2/VRSOCCER-armv7-es2.apk)
 
-For the IOS version you need to send an email to d.verweij@afas.nl.
+The iOS version is currently not working, but you can send an email to d.verweij@afas.nl to get updates.
 
 # Instructions for development
 
-* Install > 4.13 Unreal Engine
-* Clone this repository and build the UE project.
+* Install Unreal Engine 4.13. The easiest way is through the [Epic Games software](http://www.epicgames.com).
+* Clone this repository.
+* Open the project in the Unreal Editor.
 
 # Known TODO's
 
-* Control the game with a wii controller or with air gestures (requires camera in cardbox to work.. 
-* Network play
+* Control the game with a wii controller or with air gestures (requires camera in cardbox to work).
+* Network play.
