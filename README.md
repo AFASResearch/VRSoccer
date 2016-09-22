@@ -21,7 +21,7 @@ The iOS version is currently not working, but you can send an email to d.verweij
 
 * Install Unreal Engine 4.13. The easiest way is through the [Epic Games software](http://www.epicgames.com).
 * Clone this repository.
-* Open the project in the Unreal Editor.
+* Open the project (VRSOCCER.uproject) in the Unreal Editor.
 
 # Known TODO's
 
